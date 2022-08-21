@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sr-Ale<br>
+- 👋 Hi, I’m @Sr-Ale</br>
 Staff at Ivao.aero (ES-WMA1)
-<br>Staff at SrTeam
-<br>
+</br>Staff at SrTeam
+</br>
 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sr-Ale&hide=contribs,prs&show_icons=true&layout=compact&theme=dark" alt="Sr-Ale" />
 

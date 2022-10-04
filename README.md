@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sr-Ale</br>
-Staff at Ivao.aero (ES-WMA1)
+Staff at Ivao.aero (ES-WMA1 / LECS-ST1)
 </br>Staff at SrTeam
 </br>Creator of the HiCrew system for VAs
 </br>

@@ -19,9 +19,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=Sr-Ale&label=Profile+visitors:)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Ale&layout=compact&theme=dark)](https://github.com/jrmydix)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-diazro&layout=compact&theme=dark)](https://github.com/jrmydix)
 
-![Alejandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Sr-Ale&count_private=true&show_icons=true&theme=dark&hide=issues)
+![Alejandro GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro-diazro&count_private=true&show_icons=true&theme=dark&hide=issues)
 
 </div><br>
 

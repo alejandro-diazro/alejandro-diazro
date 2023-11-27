@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Alejandro 😉</h1>
-<h4 align="center">I'm a 20 years old, currently studing for a HND in Computing Videogames Programming</h4>
+<h4 align="center">I'm a 21 years old, currently studing for a HND in Computing Videogames Programming</h4>
 
 <br><br><h2 align="center">Contact:</h2><br>
 
@@ -24,4 +24,3 @@
 ![Alejandro GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandro-diazro&count_private=true&show_icons=true&theme=dark&hide=issues)
 
 </div><br>
-

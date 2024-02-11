@@ -7,9 +7,8 @@
 <a href="https://github.com/Sr-Ale"><img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&logo=github&logoColor=fff&labelColor=282828"></a>
 
 <br><br>
-📧 Mail : alejandro@diazro.es
 
-🔗 Personnal website : [portfolio.diazro.es](https://portfolio.diazro.es)
+🔗 Personnal website : [alejandro-diazro.github.io](https://alejandro-diazro.github.io)
 
 </div><br>
 
